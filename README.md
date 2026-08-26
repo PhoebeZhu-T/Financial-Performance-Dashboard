@@ -60,10 +60,18 @@ The dashboard is built using a star schema with separate fact and dimension tabl
 
 ## Key Features
 
-- Interactive slicers
+- Interactive dashboard with slicers
 - KPI cards
-- Budget vs Forecast vs Actual comparison
-- Variance analysis
+- Actual vs Budget vs Forecast comparison
+- Budget and Forecast variance analysis
 - Monthly trend analysis
 - Star schema data model
-- DAX measures
+- Drill-through transaction detail page
+
+## Tools Used
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modelling
+- Data Visualisation
